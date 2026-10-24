@@ -1,0 +1,5 @@
+node_modules/
+*.log
+backend/public/test.php
+backend/public/test-db.php
+backend/public/bonjour.php
